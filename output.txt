@@ -1,0 +1,9 @@
+Alice borrow Python 101
+Alice has borrowed Book: Python 101 by A. Rao  (ID : 1
+Could not borrow Python 101 is not available and may already have borrowed
+Bob borrow Tom & Jerry
+Could not return  Dilwale not in Alice's borrowed list
+Book: Python 101 by A. Rao  (ID : 1 --> late fee for 3 days : RS 6
+None --> late fee for 3 days : RS 3
+None --> late fee for 3 days : RS 15
+Total items created: 3
